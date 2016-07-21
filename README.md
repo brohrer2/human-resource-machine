@@ -1,3 +1,3 @@
 # human-resource-machine
 
-Code from Human Resouce Machine
+Code from Human Resource Machine
